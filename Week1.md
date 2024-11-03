@@ -23,6 +23,13 @@ Because it is long term plan and will effect the career less than practicel know
 Discuss the following situations and evaluate if the computer professionals have maintained higher standards of commitment, integrity, responsibility, and accountability.
 •	A data science team have signed a contract with a client to deliver software on a specific date. The team has failed to meet the deadline and the client lost money for pushing the deadline further.
 
+This team did not meet the standards of commitment, integrity, responsibility, or accountability. Ideally, they should have provided realistic timelines, informed the client of any challenges, and discussed options to mitigate the delay.
+
 •	A data science team has delivered a project to a client with the source code. The team asked the client to review the code and report back if he finds anything unusual.
 
+This team has shown reasonable levels of commitment, integrity, responsibility, and accountability, though they might enhance accountability by ensuring thorough internal testing before releasing code to clients.
+
+
 •	An AI team has received two similar datasets from two clients to build a prediction model. The team decided to train one model in both datasets without telling the clients that their dataset is being used to train other models.
+
+This team failed to meet the standards of integrity, responsibility, and accountability. Combining datasets without consent compromises ethical standards, client trust, and data security protocols.
