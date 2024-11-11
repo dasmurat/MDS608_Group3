@@ -14,3 +14,22 @@ Using client-provided funds for projects other than the agreed scope, without th
 Providing incomplete information and unrealistic deadlines can harm the client and damage their trust in the organization. While this may not immediately seem as severe as the previous examples, it is still unethical and could be detrimental if the project fails to meet expectations. It may be best to raise concerns internally first to clarify if there were misunderstandings. If the team knowingly misleads the client, however, whistleblowing might be necessary to prevent further escalation of the issue.
 
 To conclude, all three scenarios involve ethical concerns, but the first two involve clear violations that impact users’ privacy and client trust directly, making whistleblowing more immediately justified. The third scenario could first benefit from internal clarification before considering whistleblowing.
+
+Task 2: 
+
+Jordan, a data analyst at ABC Solutions, faces an ethical dilemma: sharing insights from a client’s sensitive data from with a friend, Taylor from a competitor company. According to the ACS Code of Ethics, 
+
+
+Jordan faces an ethical dilemma involving confidentiality and professionalism. The ACS Code of Ethics offers guidance:
+
+1. **Public Interest**: Protecting customer privacy is paramount. Jordan should not share insights, even non-specific, with Taylor to avoid breaching public trust.
+
+2. **Honesty**: Disclosing any part of XYZMart's data would be deceptive and compromise professional integrity. Jordan should communicate firmly with Taylor about the ethical boundaries.
+
+3. **Confidentiality**: Sharing proprietary insights violates XYZMart's confidentiality and could impact their competitive edge. Jordan must keep data secure.
+
+4. **Professionalism**: Engaging in actions for personal gain that could harm ABC Solutions' reputation is unprofessional. If pressured, Jordan should seek guidance from a supervisor.
+
+In summary, Jordan should refrain from sharing any data with Taylor, uphold confidentiality, and prioritize ethical standards in line with the ACS Code.
+To resolve the dilemma, Jordan should decline to share insights, maintain confidentiality, and, if needed, report the situation to a supervisor to ensure responsible conduct.
+
