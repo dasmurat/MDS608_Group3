@@ -19,9 +19,6 @@ Task 2:
 
 Jordan, a data analyst at ABC Solutions, faces an ethical dilemma: sharing insights from a client’s sensitive data from with a friend, Taylor from a competitor company. According to the ACS Code of Ethics, 
 
-
-Jordan faces an ethical dilemma involving confidentiality and professionalism. The ACS Code of Ethics offers guidance:
-
 1. **Public Interest**: Protecting customer privacy is paramount. Jordan should not share insights, even non-specific, with Taylor to avoid breaching public trust.
 
 2. **Honesty**: Disclosing any part of XYZMart's data would be deceptive and compromise professional integrity. Jordan should communicate firmly with Taylor about the ethical boundaries.
